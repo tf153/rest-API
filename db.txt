@@ -1,0 +1,14 @@
+Remote Host
+freedb.tech
+
+Port
+3306
+
+Database Name
+freedbtech_WinCovid
+
+Username
+freedbtech_rj
+
+Password
+rahuljoshigame18

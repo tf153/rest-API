@@ -1,7 +1,7 @@
 {
   "name": "rest-api",
   "version": "1.0.0",
-  "description": "Rest API for CRON",
+  "description": "Rest  API in Node.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/tf153/rest-API.git"
   },
+  "keywords": [],
   "author": "Rahul Joshi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tf153/rest-API/issues"
   },
-  "homepage": "https://github.com/tf153/rest-API#readme"
+  "homepage": "https://github.com/tf153/rest-API#readme",
+  "dependencies": {
+    "firebase-admin": "^9.9.0"
+  }
 }
